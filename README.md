@@ -2,7 +2,10 @@
 Developed by: Noel Ninan Sheri
 🔗 GitHub Repository: CropRecommendationModel
 Streamlit App: https://crop-recommendation-model-noel-ninan.streamlit.app
+
+
 📌 Introduction
+
 Agriculture is the backbone of our economy, and selecting the right crop for given soil and environmental conditions is crucial for maximizing yield. The Crop Recommendation System is a machine learning–powered web application that intelligently predicts the most suitable crop to grow based on real-time environmental and soil parameters.
 
 This system enables smart farming by helping farmers and agricultural researchers make informed decisions, reducing risks and increasing productivity.
@@ -81,10 +84,9 @@ Encoded label is converted back to crop name
 Output displayed with recommendation
 
 🖥 Deployment Instructions
+
 🔹 Local Deployment
-bash
-Copy
-Edit
+
 git clone https://github.com/NoelNinanSheri1307/CropRecommendationModel.git
 cd CropRecommendationModel
 pip install -r requirements.txt
